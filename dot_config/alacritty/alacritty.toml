@@ -1,0 +1,8 @@
+[env]
+TERM = "xterm-256color"
+decorations = "transparent"
+title = "That terminal thingy"
+
+[font.normal]
+family = "FiraCode Nerd Font Mono"
+style = "Retina"
